@@ -1,1 +1,3 @@
-export {}
+export interface IMain {
+  version: string;
+}
